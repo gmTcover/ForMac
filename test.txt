@@ -1,3 +1,6 @@
 Hello world
 Hello world again!
+<<<<<<< HEAD
 again!
+=======
+>>>>>>> 9c57f3368e3c5c59448d181b2576daf7ebfb23da
