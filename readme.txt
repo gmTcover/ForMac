@@ -6,3 +6,5 @@ git checkout -b dev
 返回需要目录，操作的目录创建新分支 git checkout -b name，修改，提交，merge 删除
 推送分支到远程库
 git push origin
+
+# git cheackout 9b7efa2 -- readme.txt
